@@ -1,3 +1,29 @@
+# Contact manager built with React
+
+A contact manager built with React.
+
+It is a full CRUD application.
+
+To mimic a REST API jsonplaceholder has been used. [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
+Bootstrap has been used for styling.
+
+
+## Screenshots
+
+Home and Add pages
+
+<img src="home.gif" width=650>
+
+
+## Author
+* Albert Stjärne (https://github.com/AlbertStjarne)
+
+
+
+
+# React README included from start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
